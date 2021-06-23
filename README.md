@@ -1,12 +1,6 @@
-<<<<<<< HEAD
 #  sql-challenge
-# Homework -  Instructions
-=======
-# sql-challenge
-Homework
 
-Instructions
->>>>>>> 6ade03ac0a368a3f384d7b5aceb7903b900ec0a4
+# Homework -  Instructions
 
 # Background
 
@@ -50,8 +44,4 @@ Once you have a complete database, do the following:
 
 2.  Create a histogram to visualize the most common salary ranges for employees.
 
-<<<<<<< HEAD
 3.  Create a bar chart of average salary by title.
-=======
-Create a bar chart of average salary by title.
->>>>>>> 6ade03ac0a368a3f384d7b5aceb7903b900ec0a4
