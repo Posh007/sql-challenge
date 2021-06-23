@@ -36,7 +36,7 @@ Once you have a complete database, do the following:
 
 # Bonus (Optional)
 
-1.  Import the SQL database into Pandas, instead of reading the CSVs directly in Pandas. 
+1.  Import the SQL database into Pandas (instead of reading the CSVs directly in Pandas) using the following: 
 
     from sqlalchemy import create_engine
     engine = create_engine('postgresql://localhost:5432/<your_db_name>')
