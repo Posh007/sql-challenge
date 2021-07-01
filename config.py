@@ -1,2 +1,0 @@
-password = "pw"
-pw = "postgres"
