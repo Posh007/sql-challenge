@@ -1,4 +1,5 @@
-#  sql-challenge:  Employee Database: A Mystery in Two Parts
+#  sql-challenge
+#  Employee Database: A Mystery in Two Parts
 
 ## Background
 
